@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 1. **Upload Notebook to Google Colab:**
    - Open Google Colab.
-   - Click on `File > Upload Notebook` and select `NVDA_Stock_Prediction.ipynb` from your local machine.
+   - Click on `File > Upload Notebook` and select `supervised_learning_nvda.ipynb` from your local machine.
 
 2. **Run the Notebook on Colab:**
    - Once uploaded, run each cell in sequence.
